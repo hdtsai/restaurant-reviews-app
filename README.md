@@ -10,7 +10,7 @@ python -m SimpleHTTPServer 8000
 ```
 4. for python3 user use 
 ```
-python3 -m SimpleHTTPServer 8000
+python3 -m http.server 8000
 ```
 5. visit the website in your browser at "http://localhost:8000".
 
